@@ -1,0 +1,100 @@
+{
+  "Products": [
+    {
+      "id":"1",
+      "title": "Smartphone",
+      "img_url": "https://images.news18.com/ibnlive/uploads/2022/03/iphone-13-make-in-india.jpg",
+      "price": "20000",
+      "description": "A smartphone is a versatile mobile device that combines the functionality of a traditional phone with features like internet access, app support, and multimedia capabilities.",
+      "rating": 4.5
+    },
+    {
+      "id":"2",
+      "title": "Laptop",
+      "img_url": "https://s.yimg.com/ny/api/res/1.2/RPpqep57_PY5f34ZwOnqbA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM4NA--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/c73cd750-ed07-11ec-abdf-7b1af5b1e683",
+      "price": "80000",
+      "description": "A laptop is a portable personal computer designed for mobile use, featuring a keyboard and display screen. It offers versatility and convenience for tasks ranging from work. ",
+      "rating": 4.7
+    },
+    {
+      "id":"3",
+      "title": "Headphones",
+      "img_url": "https://www.deshify.com/images/thumbs/0001414_beats-bluetooth-headphone-tm-10_1300.jpeg",
+      "price": "1000",
+      "description": "Headphones are audio devices designed to be worn over the ears, delivering high-quality sound and providing an immersive listening experience. They come in various styles, including over-ear, on-ear, and in-ear.",
+      "rating": 4.2
+    },
+    {
+      "id":"4",
+      "title": "Fitness Tracker",
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaidRPTmiuWNZOB3HSVobazX7VBFgbDJDyCg&usqp=CAU",
+      "price": " 800",
+      "description": "A fitness tracker is a wearable device designed to monitor and record various aspects of physical activity and health, such as steps taken, heart rate, sleep patterns, and more.",
+      "rating": 4.0
+    },
+    {
+      "id":"5",
+      "title": "Coffee Maker",
+      "img_url": "https://s7d9.scene7.com/is/image/NewellRubbermaid/Mod-2-B-1440x1332?fmt=jpeg",
+      "price": "4000",
+      "description": "A coffee maker is a kitchen appliance designed to brew coffee by heating water and passing it through ground coffee beans, resulting in a flavorful and aromatic cup of coffee.",
+      "rating": 4.6
+    },
+    {
+      "id":"6",
+      "title": "Wireless Mouse",
+      "img_url": "https://www.cloud.ryanscomputers.com/cdn/products/medium/ugreen-mu006-silent-black-ergonomic-wireless-11679997426.webp",
+      "price": "600",
+      "description": "A wireless mouse is a computer input device that operates without the need for a physical connection to the computer, typically using Bluetooth or radio frequency technology.",
+      "rating": 4.3
+    },
+    {
+      "id":"7",
+      "title": "Smart TV",
+      "img_url": "https://st2.depositphotos.com/1000128/6373/i/950/depositphotos_63732349-stock-photo-smart-tv.jpg",
+      "price": "8000",
+      "description": "A Smart TV is a television that integrates internet connectivity and interactive features, allowing users to access streaming services, browse the web, and use various apps directly from their TV screen.",
+      "rating": 4.8
+    },
+    {
+      "id":"8",
+      "title": "Gaming Console",
+      "img_url": "https://s.yimg.com/uu/api/res/1.2/LBRgeGZAwDPBCBk3gvRlvw--~B/Zmk9c3RyaW07aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2023-05/5a95e9e0-edae-11ed-9efe-f952d9118102",
+      "price": "2000",
+      "description": "A gaming console is a specialized electronic device designed for playing video games, providing users with a dedicated gaming experience.",
+      "rating": 4.9
+    },
+    {
+      "id":"9",
+      "title": "Bluetooth Speaker",
+      "img_url": "https://5.imimg.com/data5/SELLER/Default/2022/10/TA/RV/QJ/78198701/music-mini-bluetooth-speaker.webp",
+      "price": "1500",
+      "description": "A Bluetooth speaker is a portable audio device that can connect wirelessly to your smartphone or other devices to play music, making it convenient for on-the-go entertainment.",
+      "rating": 4.4
+    },
+    {
+      "id":"10",
+      "title": "Digital Camera",
+      "img_url": "https://thumbs.dreamstime.com/b/professional-digital-camera-1572370.jpg",
+      "price": "16000",
+      "description": "A digital camera is a versatile device that captures still photographs or videos in a digital format, replacing traditional film-based cameras.",
+      "rating": 4.5
+    },
+    {
+      "id":"11",
+      "title": "Wireless Earbuds",
+      "img_url": "https://diamu.com.bd/wp-content/uploads/2021/12/Belkin-Soundform-True-Wireless-Earbuds-AUC001BTBK-1.jpeg",
+      "price": "1200",
+      "description": "Wireless earbuds are compact, cordless audio devices that provide a convenient and wire-free way to listen to music or take calls on the go. They typically connect to devices via Bluetooth and offer different features.",
+      "rating": 4.6
+    },
+    {
+      "id":"12",
+      "title": "Tablet",
+      "img_url": "https://media.cnn.com/api/v1/images/stellar/prod/210921222249-3-9th-gen-ipad-review-underscored.jpg?q=x_0,y_0,h_2108,w_3746,c_fill/h_720,w_1280",
+      "price": "14000",
+      "description": "Tablets are portable computing devices with touchscreen interfaces that bridge the gap between smartphones and laptops, offering a versatile platform for various tasks, including web browsing, media consumption, and productivity.",
+      "rating": 4.3
+    }
+  ]
+}
